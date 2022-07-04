@@ -13,6 +13,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -36,3 +37,16 @@ section{
     background-repeat: no-repeat;
 
 }
+
+.middle-width img {
+    width: 80%;
+
+}
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    width: 50%;
+    padding-right: 12%;
+    background-position: right;
+}
+
